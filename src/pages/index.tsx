@@ -13,12 +13,13 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        DOWHA KIM
       </p>
-      <h2>Hi👋 I'm Dowha, a contents marketer who believes positive effects of internet technology. Have great passion in SaaS and Gender equality.
-I love to be creative with Adobe Illustrator, HTML/CSS, Javascript, Gatsby.</h2>
+      <h2>Hi👋 I'm Dowha, a contents marketer who believes positive effects of internet technology.</h2>
+      <h3>Have great passion in SaaS and Gender equality.
+I love to be creative with Adobe Illustrator, HTML/CSS, Javascript, Gatsby.</h3>
       <p>
-        You can find me on LinkedIn{' '}
+        You can find me on LinkedIn→ {' '}
         <a href="https://www.linkedin.com/in/kimdowha/">
           https://www.linkedin.com/in/kimdowha/
         </a>
