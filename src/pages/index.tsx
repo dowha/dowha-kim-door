@@ -13,12 +13,11 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        DOWHA KIM 🌊
+        DOWHA KIM👨‍💻
       </p>
       <h2>Hi, I'm Dowha.</h2>
       <h3>A contents marketer who believes positive effects of internet technology.</h3>
-      <h3>I have great passion in SaaS and Gender equality.
-I love to be creative with Adobe Illustrator, HTML/CSS, Javascript, Gatsby.</h3>
+      <h3>I have great passion in SaaS and Gender equality and love to be creative with Adobe Illustrator, HTML/CSS, Javascript, Gatsby.</h3>
       <p>
         You can also find me on LinkedIn→ {' '}
         <a href="https://www.linkedin.com/in/kimdowha/">
